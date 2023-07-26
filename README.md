@@ -5,6 +5,7 @@ I have been programming since 2013.
 Stack:
 
 Python (pandas, numpy, sklearn, matplotlib, PyQt5, Django), PostgreSQL, MQL4,5(Metatrader).
+
 WEB(HTML, CSS, JavaScript).
 
 contact with me: [linkedin](https://www.linkedin.com/in/kamil-gazizullin)

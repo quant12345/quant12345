@@ -1,5 +1,14 @@
 ### Hi, I'm Kamil 👋
 
+I have been programming since 2013.
+
+Stack:
+
+Python (pandas, numpy, sklearn, matplotlib, PyQt5, Django), PostgreSQL, MQL4,5(Metatrader).
+WEB(HTML, CSS, JavaScript).
+
+contact with me: [linkedin](https://www.linkedin.com/in/kamil-gazizullin)
+
 <!--
 **quant12345/quant12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -10,7 +10,7 @@ WEB(HTML, CSS, JavaScript).
 
 My profile Stackoverflow
 
-<a href="https://stackexchange.com/users/16585571"><img src="https://stackexchange.com/users/flair/16585571.png" width="208" height="58" alt="profile for inquirer on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for inquirer on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://stackoverflow.com/users/11985088/inquirer"><img src="https://stackoverflow.com/users/flair/11985088.png" width="208" height="58" alt="profile for inquirer at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for inquirer at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 Contact with me: [linkedin](https://www.linkedin.com/in/kamil-gazizullin)
 

@@ -1,6 +1,6 @@
 ### Hi, I'm Kamil 👋
 
-I have been programming since 2013.
+I started programming in MQL4,5 (Metatrader) since 2013, over time, mastering other stacks for myself.
 
 Stack:
 

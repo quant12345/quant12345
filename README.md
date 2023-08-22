@@ -12,6 +12,8 @@ My profile Stackoverflow
 
 <a href="https://stackoverflow.com/users/11985088/inquirer"><img src="https://stackoverflow.com/users/flair/11985088.png" width="208" height="58" alt="profile for inquirer at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for inquirer at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
+I am looking work.
+
 Contact with me: [linkedin](https://www.linkedin.com/in/kamil-gazizullin)
 
 <!--

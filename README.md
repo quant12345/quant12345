@@ -12,7 +12,9 @@ My profile Stackoverflow
 
 <a href="https://stackoverflow.com/users/11985088/inquirer"><img src="https://stackoverflow.com/users/flair/11985088.png" width="208" height="58" alt="profile for inquirer at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for inquirer at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-I am looking work.
+Noisy neighbors have been living above me for 10 years now.
+They make noise on purpose. I have achieved some success in programming (considering the conditions in which 
+I live, this is more than a good result). And I need a job to leave. I turn to the community if anyone can help.
 
 Contact with me: [linkedin](https://www.linkedin.com/in/kamil-gazizullin)
 
